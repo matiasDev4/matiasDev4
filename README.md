@@ -4,8 +4,8 @@
 </div>
 
 ## Sobre mi
-Me enfoco principalmente en el desarrollo Backend con python, escalable y seguro. Me gusta escribir codigo limpio y siempre aplicar buenas practicas en el desarrollo.
-Tambien cuento con solidos conocimientos en el desarrollo Frontend con React + Typescript, permitiendome desarrollar aplicaciones completas. Estoy en constante aprendizaje para mejorar mis habilidades, me gusta colaborar con otros desarrollares dinamicamentte y superar cualquier obstaculo para presentar proyectos completos.
+Me enfoco principalmente en el desarrollo Backend con Python, creando sistemas escalables y seguros. Me gusta escribir código limpio y aplicar siempre buenas prácticas de desarrollo.
+También cuento con sólidos conocimientos en el desarrollo Frontend con React + TypeScript, lo que me permite crear aplicaciones completas. Estoy en constante aprendizaje para mejorar mis habilidades, disfruto colaborar con otros desarrolladores de manera dinámica y superar cualquier desafío para entregar proyectos de calidad.
 
 ## Mi stack tecnologico
 ### Backend
@@ -26,12 +26,10 @@ Tambien cuento con solidos conocimientos en el desarrollo Frontend con React + T
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Hostings que uso
+### Servicios de hosting que uso
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
 ### Mis herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
