@@ -1,3 +1,3 @@
-<div aling='center'>
+<div align='center'>
   <h1>Hola! soy Matias Alvarez 👋</h1>
 </div>
