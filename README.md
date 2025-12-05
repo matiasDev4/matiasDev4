@@ -1,6 +1,7 @@
 # 👋 Hi! I'm *Matias Alvarez*
 **Backend Developer**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías%20Álvarez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-orange?logo=github&logoColor=white)](https://tu-portfolio.com)
 ---
 
 ## 📝 About Me
