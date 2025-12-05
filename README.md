@@ -2,6 +2,7 @@
   <h1>Hola! soy Matias Alvarez 👋</h1>
   <h3>Desarrollador Backend</h3>
 </div>
+
 ## Sobre mi
 Me enfoco principalmente en el desarrollo Backend con python, escalable y seguro. Me gusta escribir codigo limpio y siempre aplicar buenas practicas en el desarrollo.
 Tambien cuento con solidos conocimientos en el desarrollo Frontend con React + Typescript, permitiendome desarrollar aplicaciones completas. Estoy en constante aprendizaje para mejorar mis habilidades, me gusta colaborar con otros desarrollares dinamicamentte y superar cualquier obstaculo para presentar proyectos completos.
