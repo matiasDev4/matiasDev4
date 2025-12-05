@@ -1,7 +1,7 @@
 <div align='center'>
   
   ## Hola! soy Matias Alvarez 👋
-  **Desarrollador Backend**
+  ``Desarrollador Backend``
   
 </div>
 
