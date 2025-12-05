@@ -13,6 +13,7 @@ I also have solid skills in **Frontend** development with **React + TypeScript**
 
 I am constantly learning to improve my skills, enjoy collaborating with other developers, and taking on challenges to deliver high-quality projects.
 
+3+ years of experience building backend systems and full-stack applications with Python, FastAPI, Flask, Node.js, React, and TypeScript through personal, academic, and open source projects.
 ---
 
 ## 💻 My Tech Stack
